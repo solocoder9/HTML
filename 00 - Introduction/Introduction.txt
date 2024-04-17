@@ -1,0 +1,27 @@
+1> What is web? 
+-> The web is a system of interconnected documents and resourses, accessible over the internet,
+that are linked together using hyperlinks and can be viewed with a web browser.
+
+
+2> What is webpage?
+-> A web page is a single document on the internet that can be acdessed by entering its unique
+address, containing text, images, videos, and links, and displayed in a web browser.
+
+
+3> What is website?
+-> A website is a collecttion of web pagest that are connected and accessible over the internet, usually
+identified by a common domain name, and used to share information, services or products.
+
+
+4> How do we create webpage?
+-> To create a webpage, we need 3 web technologies
+        1> HTML - to structure the content
+        2> CSS - to style it
+        3> JavaScript - to interacivity(fungctionality)
+
+-------------------------------------------------------------------------------------------------------
+
+5> What is HTML?
+-> HTML stands for Hyper Text Markup Language
+
+
