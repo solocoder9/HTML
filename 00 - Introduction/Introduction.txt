@@ -22,6 +22,39 @@ identified by a common domain name, and used to share information, services or p
 -------------------------------------------------------------------------------------------------------
 
 5> What is HTML?
--> HTML stands for Hyper Text Markup Language
+-> HTML stands for Hyper Text Markup Language.
+-> It is the standard markup language used to create webpages.
+-> HTML is the backbone of web development, providing the structure for content on internet(webpage).
+-> it consist of a series of elements.
 
 
+6> What is Hypertext?
+-> Hypertext is text linked with other text through hyperlinks, enabling users to navigate 
+   between different pieces of textor documents by clicking on these links.
+
+
+7> What is markup ?
+-> Markup involves using tags to define elements like headings, paragraphs, links, and images, which help
+   browers interpret and display content correctly.
+
+--------------------------------------------------------------------------------------------------------
+
+
+HTML History
+------------
+
+Year	          Version
+
+1989	Tim Berners-Lee invented www
+1991	Tim Berners-Lee invented HTML
+1993	Dave Raggett drafted HTML+
+1995	HTML Working Group defined HTML 2.0
+1997	W3C Recommendation: HTML 3.2
+1999	W3C Recommendation: HTML 4.01
+2000	W3C Recommendation: XHTML 1.0
+2008	WHATWG HTML5 First Public Draft
+2012	WHATWG HTML5 Living Standard
+2014	W3C Recommendation: HTML5
+2016	W3C Candidate Recommendation: HTML 5.1
+2017	W3C Recommendation: HTML5.1 2nd Edition
+2017	W3C Recommendation: HTML5.2
