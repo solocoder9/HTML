@@ -1,0 +1,7 @@
+1) What are attributes in HTML?
+- In HTML, attributes are provide additinonal information about an element and modify its behavior
+  or appearance.
+- Attributes are added within the opeining tag of an element and consist of a name and a value,
+  separated by an equals sing(=) and enclosed in double or single quotes('' or "").
+- Attributes are essential for customizing and enhancing the functionality of HTML elemens within
+  web pages.

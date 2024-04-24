@@ -1,0 +1,21 @@
+1) What are elements in HTML?
+- Elements are the basic units of structure and content in a web page, defined
+  by opening and closing tags, enclosing content.
+- Basically tags that contain information and define the structure and content
+  of a web page.
+
+-----------------------------------------------------------------------------------
+2) Types of Elements
+- Elements can be broadly categoriezed into two types based on their behavior and 
+  structure.
+        1> Block-level Elements
+        2> Inline Elements
+
+1> Block-Level Elements
+- These elements typecally start on a new line and occupy the full width available to them.
+- examples: <div>, <p>, <h1> to <h6>, <ul>, <ol>, <li>, <table>, <form>, etc.
+
+2> Inline Elements
+- These elemes do not start on a new line and only occupy the space bounded by the tags themselves.
+- These are often used withnin block-level elements to style or modify parts of the content.
+- examples: <span>, <a>, <img>, <strong>, <em>, <input>, <br>, <i>, <u>, etc.

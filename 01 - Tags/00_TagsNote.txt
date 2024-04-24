@@ -1,0 +1,46 @@
+1) What are tags in HTML?
+
+- In HTML, tags are kewords enclosed in angle brackets('<' and '>') that defines how the
+   web browser should be format and display content.
+- Tags are used to structure and describe the elements of a web pace, such as headings, 
+  paragraphs, images, links and more.
+- Each tags servers a specific purpose and can have attributes taht provide additional
+  information about the elements.
+
+-------------------------------------------------------------------------------------------------
+2) Types of Tags
+
+- HTML tags can be brodly catagoriezed into two Types:-
+        1> Paired Tags
+        2> Unpaired Tags
+
+1> Paired Tags
+- Paired tags consist of an opening tag and a closing tag, enclosing content between them.
+- The opening tag begins with a less-than symbol(<), followed by the tag neme, and ends with
+  a greater-than symbol but include a forward slash before the tagname(</).
+- examples:
+
+        Opening Tag	    Closing Tag
+        -----------     -----------
+        <html>	        </html>
+        <table>    	    </table>
+        <form>	        </form>
+        <span>	        </span>
+        <ul>	        </ul>
+        <p>	            </p>
+        <head>	        </head>
+        <div>	        </div>
+
+2> Unpaired Tags
+- Unpaired tags do not have a separate closing tag. Instead, they self-close within a single tag.
+- They typically dont enclose content and are used t insert standalone elements.
+- examples:
+
+        Opening Tag
+        -----------
+        <br>
+        <hr>
+        <meta>
+        <input>
+
+    
