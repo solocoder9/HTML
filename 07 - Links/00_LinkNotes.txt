@@ -45,3 +45,13 @@
 - These are commonly used for linking to resources with the same website.
 - Example:
     images/photo.jpg
+
+=======================================================================================
+3) HTML links - The Target Attribute
+- The target attribute specifies where to open the linked document.
+- The target attribute can have one of the following values:
+
+   1> _self - Default. Opens the document in the same window/tab as it was clicked
+   2> _blank - Opens the document in a new window or tab
+   3> _parent - Opens the document in the parent frame
+   4> _top - Opens the document in the full body of the window
