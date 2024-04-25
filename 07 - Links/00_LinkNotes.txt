@@ -1,0 +1,47 @@
+1) What are Links in HTML?
+- Links are elements that allow to user to navigate between different web pages
+  or resources.
+- They are represented by the '<a>' (anchor) element.
+- Types of links:-
+        1> External Links
+        2> Internal Links
+        3> Anchor Links
+
+1> External Links
+- These links point to resources outside of the current website or domain.
+- They typically include the full URL(absolute URL)of the destination.
+- Example: 
+    <a href="https://www.example.com">Visit Example</a>
+
+2> Internal Links
+- These links point to other pages within the same website or domain.
+- They often used Related URLs.
+- Example:
+    <a href="/about.html">About Us</a>
+
+3> Anchor Links
+- Anchor links are also know as fragment identifieres or page jumps.
+- These links point to specific sections within the same page.
+- They use the 'href' attribute along with an ID of the target element.
+- Example:
+    <a href="#section1">Jump to Section 1</a>
+    ...
+    <h2 id="section1">Section 1</h2>
+
+=====================================================================================
+2) Absolute URL vs Relateive URL
+
+1> Absolute URL
+- An absolute URL provides the complete web address of a resource, including the protocol,
+  domain name, and the path to the specific resourse.
+- It specifies the exact location of the resource on the internet.
+- Example:
+    https://www.example.com/images/photo.jpg
+
+2> Relative URL
+- A Relative URL specifies  the location of a resource relative to the current page's location.
+- It does not include the protocol or domain name. Instade, it only includes the part ot the 
+  resource from the current page's location.
+- These are commonly used for linking to resources with the same website.
+- Example:
+    images/photo.jpg
