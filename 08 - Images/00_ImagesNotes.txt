@@ -1,0 +1,39 @@
+1) What are images in HTML?
+- In HTML, images are elements used to display visual content, such as photographs,
+  illustrations, icons, or logos, within a webpage.
+- They are represented by the '<img>' tag.
+- The <img> tag is a self-closing tag(unpaired) and an inline element.
+- There are two attributes of <img> tag:
+        1> src
+        2> alt
+        3> dimensions (width and height)
+
+1> src
+- The 'src' attribute is used to specify the URL(uniform resource locator) of the
+  image file.
+- This URL can be a relative or absolute path to the image file.
+- Exameple:
+    <!-- Displaying an image using an absolute URL -->
+    <img src="https://www.example.com/image.jpg">
+
+    <!-- Displaying an image using a relative URL -->
+    <img src="image.jpg">
+
+
+2> alt
+- The 'alt' attribute provides the alternative text for the image, which is displayed
+  if the image cannot be loaded or if the user is using a screen reader.
+- it is essential for accessibility and SEO(Search engine optimization) purposes.
+- Example:
+    <img src="https://www.example.com/image.jpg" alt="Example Image">
+
+
+3> dimensions (widght and heigth)
+- This is used to specify the dimensions of the image using the 'width' and 'height'
+  attributes.
+- This can help browers allocate space for the image before it loads, preventing layout
+  shifts.
+- Example: 
+    <!-- Providing dimensions for the image -->
+    <img src="image.jpg" alt="Image with Dimensions" width="300" height="200">
+
