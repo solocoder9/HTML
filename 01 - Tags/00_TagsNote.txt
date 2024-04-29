@@ -26,10 +26,10 @@
         <table>    	    </table>
         <form>	        </form>
         <span>	        </span>
-        <ul>	        </ul>
+        <ul>	          </ul>
         <p>	            </p>
         <head>	        </head>
-        <div>	        </div>
+        <div>	          </div>
 
 2> Unpaired Tags
 - Unpaired tags do not have a separate closing tag. Instead, they self-close within a single tag.
