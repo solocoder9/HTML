@@ -1,0 +1,36 @@
+1) What are tales in HTML?
+- In HTML, a table is way to orgainze data into rows and columns.
+- table sare commonly used in web ddeveliopment to dispaly data in structure
+  fromat, such as schedules, pricig lists, or comparison charts.
+- It consists of three main elements.
+        1> Table (<table>)
+        2> Row (tr)
+        3> Cell (td)
+
+1> Table 
+- Table defines a tables and contaisns all the table elements.
+- It is defined by the '<table>' tag.
+
+2> Row 
+- Each horizontal line in a table is called a row.
+- It is defined by the '<tr>' tag.
+
+3> Cell
+- Each intersection of a row and column is called a cell.
+- It is defined by the '<td>'(for regular cells) or '<th>' tag(for header cells).
+
+
+HTML Table tags
+---------------
+
+    Tag	Description
+<table>	Defines a table
+<th>	Defines a header cell in a table
+<tr>	Defines a row in a table
+<td>	Defines a cell in a table
+<caption>	Defines a table caption
+<colgroup>	Specifies a group of one or more columns in a table for formatting
+<col>	Specifies column properties for each column within a <colgroup> element
+<thead>	Groups the header content in a table
+<tbody>	Groups the body content in a table
+<tfoot>	Groups the footer content in a table
