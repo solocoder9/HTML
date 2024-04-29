@@ -1,0 +1,26 @@
+Structure of HTML page (Preferred)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<!DOCTYPE html>: Declares the document type and version of HTML (HTML5) being used.
+<html lang="en">: Defines the root element of the document and specifies that the content is in English.
+<head>: Contains meta-information about the document, such as character encoding and viewport settings.
+<meta charset="UTF-8">: Specifies the character encoding of the document as UTF-8, which supports a wide range of characters.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Sets the viewport to the width of the device and prevents automatic zooming.
+<title>Document</title>: Sets the title of the document, which appears in the browser's title bar or tab.
+<body>: Contains the main content of the document, such as paragraphs and other elements.
+
