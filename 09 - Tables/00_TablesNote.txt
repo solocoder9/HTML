@@ -10,14 +10,29 @@
 1> Table 
 - Table defines a tables and contaisns all the table elements.
 - It is defined by the '<table>' tag.
+- Attributs of <table>:
+        border: Specifies the width of the border around the table and its cells.
+        cellpadding: Specifies the space between the cell content and the cell borders.
+        cellspacing: Specifies the space between cells.
+        width: Specifies the width of the table.
+        height: Specifies the height of the table.
+        align: Specifies the horizontal alignment of the table within its containing element.
+        bgcolor: Specifies the background color of the table.
+        bordercolor: Specifies the color of the table border.
 
 2> Row 
 - Each horizontal line in a table is called a row.
 - It is defined by the '<tr>' tag.
+- Attributs of <tr>:
+        bgcolor: Specifies the background color of the table row.
 
 3> Cell
 - Each intersection of a row and column is called a cell.
 - It is defined by the '<td>'(for regular cells) or '<th>' tag(for header cells).
+- Attributs of <th> and <td>:
+        rowspan: Specifies the number of rows a table cell should span.
+        colspan: Specifies the number of columns a table cell should span.
+        bgcolor: Specifies the background color of the table cell.
 
 
 HTML Table tags
