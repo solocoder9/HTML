@@ -1,0 +1,29 @@
+1) What are semantics in HTML?
+- In HTML, semantics refers to the meaning or pupose of the elments used to 
+  structure a web page.
+- Semantic HTML elements are those that clearly describe their meaning to both
+  browser and the developer, making the content more meaningful and accessible.
+
+ Some key points:
+------------------
+a> Clearer Structure: 
+- Semantic elements provide a clearer structure to your web page, making it easier 
+  for developers to understand the purpose of each section.
+b> Accessibility: 
+  Semantic HTML improves accessibility for users, especially those who use screen 
+  readers. Screen readers rely on semantic markup to understand and navigate the 
+  content of a web page.
+c> SEO: 
+- Search engines also use semantic markup to better understand the content of a web 
+  page. Using semantic elements can help improve the visibility of your site in search 
+  engine results.
+
+ 
+- Examples of Semantic Elements:-
+        <header>: Represents the header of a section or page.
+        <nav>: Represents a navigation menu.
+        <main>: Represents the main content of a document.
+        <article>: Represents an independent piece of content.
+        <section>: Represents a thematic grouping of content.
+        <aside>: Represents content aside from the main content.
+        <footer>: Represents the footer of a section or page.
