@@ -1,0 +1,82 @@
+1) What are forms in HTML?
+- HTML forms are a fundamental part of web development, providing a way to collect
+  user input and send it to a server for processing. 
+- They are created using the <form> element and can contain various input fields such
+  as text fields, checkboxes, radio buttons, and buttons for submitting the form data. 
+- Forms are essential for interactive websites, enabling users to provide information 
+  and interact with web applications.
+
+
+Attributes
+----------
+1> action:
+- Specifies the URL to which the form data should be submitted. 
+- This is usually a server-side script that processes the form data.
+- Example: <form action="/submit-form" method="POST">
+
+2> method: 
+- Specifies the HTTP method to be used when submitting the form. 
+- The two most common methods are GET and POST.
+- Example: <form action="/submit-form" method="POST">
+
+3> name:
+- Assigns a name to the form, which can be used to reference it in JavaScript or CSS.
+- Example: <form name="myForm">
+
+4> id:
+- Assigns a unique identifier to the form, which can be used for styling or scripting purposes.
+- Example: <form id="myForm">
+
+
+Elements
+--------
+1> form: 
+- The <form> element is used to create a form on a web page. 
+- It can contain various input elements, such as text fields, checkboxes, radio buttons, and buttons.
+
+2> input:
+- The <input> element is used to create various types of input fields within a form, such as 
+  text input, checkboxes, radio buttons, and buttons.
+
+3> textarea:
+- The <textarea> element is used to create a multi-line text input field within a form.
+
+4> select:
+- The <select> element is used to create a dropdown list (select box) within a form, from which 
+  users can select one option.
+
+5> button:
+- The <button> element is used to create a clickable button within a form, which can be used to submit 
+  the form or trigger other actions.
+
+
+Input Types:
+------------
+1> Text Input:
+- This element creates a single-line text input field where users can enter text. 
+- It's commonly used for fields like name, email, and address.
+- Example:
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password">
+
+2> Password Input:
+- This element creates a password input field where the enterd texts is masked for security.
+- Example:
+    <input type="checkbox" id="subscribe" name="subscribe" value="yes">
+    <label for="subscribe">Subscribe to our newsletter</label>
+
+3> Radio button:
+- This element creates a radio button that allows users to select one option from a list.
+- Example:
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">Female</label><br>
+
+4> Submit Button:
+- This element crates a button that, when clicked, submits the form data to the server for processing.
+- Example:
+    <input type="submit" value="Submit">
+
+
+
