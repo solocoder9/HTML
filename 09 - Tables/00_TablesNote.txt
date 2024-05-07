@@ -1,4 +1,4 @@
-1) What are tales in HTML?
+1) What are tables in HTML?
 - In HTML, a table is way to orgainze data into rows and columns.
 - table sare commonly used in web ddeveliopment to dispaly data in structure
   fromat, such as schedules, pricig lists, or comparison charts.
