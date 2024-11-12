@@ -1,15 +1,15 @@
 1> What is web? 
--> The web is a system of interconnected documents and resourses, accessible over the internet,
+-> The web is a system of interconnected documents and resources, accessible over the internet,
 that are linked together using hyperlinks and can be viewed with a web browser.
 
 
 2> What is webpage?
--> A web page is a single document on the internet that can be acdessed by entering its unique
+-> A web page is a single document on the internet that can be accessed by entering its unique
 address, containing text, images, videos, and links, and displayed in a web browser.
 
 
 3> What is website?
--> A website is a collecttion of web pagest that are connected and accessible over the internet, usually
+-> A website is a collection of web pages that are connected and accessible over the internet, usually
 identified by a common domain name, and used to share information, services or products.
 
 
@@ -17,7 +17,7 @@ identified by a common domain name, and used to share information, services or p
 -> To create a webpage, we need 3 web technologies
         1> HTML - to structure the content
         2> CSS - to style it
-        3> JavaScript - to interacivity(fungctionality)
+        3> JavaScript - to interactivity (functionality)
 
 -------------------------------------------------------------------------------------------------------
 
@@ -30,12 +30,12 @@ identified by a common domain name, and used to share information, services or p
 
 6> What is Hypertext?
 -> Hypertext is text linked with other text through hyperlinks, enabling users to navigate 
-   between different pieces of textor documents by clicking on these links.
+   between different pieces of text or documents by clicking on these links.
 
 
 7> What is markup ?
 -> Markup involves using tags to define elements like headings, paragraphs, links, and images, which help
-   browers interpret and display content correctly.
+   browsers interpret and display content correctly.
 
 --------------------------------------------------------------------------------------------------------
 
