@@ -1,4 +1,4 @@
-Structue of HTML page
+Structure of HTML page
 --------------------------------------------
 <html>
 
