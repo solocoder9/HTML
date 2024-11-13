@@ -10,7 +10,7 @@
 -------------------------------------------------------------------------------------------------
 2) Types of Tags
 
-- HTML tags can be brodly catagoriezed into two Types:-
+- HTML tags can be broadly catagoriezed into two Types:-
         1> Paired Tags
         2> Unpaired Tags
 
