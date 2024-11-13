@@ -16,6 +16,6 @@
 - examples: <div>, <p>, <h1> to <h6>, <ul>, <ol>, <li>, <table>, <form>, etc.
 
 2> Inline Elements
-- These elemes do not start on a new line and only occupy the space bounded by the tags themselves.
+- These elements do not start on a new line and only occupy the space bounded by the tags themselves.
 - These are often used withnin block-level elements to style or modify parts of the content.
 - examples: <span>, <a>, <img>, <strong>, <em>, <input>, <br>, <i>, <u>, etc.
