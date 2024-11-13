@@ -6,7 +6,7 @@
 
 -----------------------------------------------------------------------------------
 2) Types of Elements
-- Elements can be broadly categoriezed into two types based on their behavior and 
+- Elements can be broadly categorized into two types based on their behavior and 
   structure.
         1> Block-level Elements
         2> Inline Elements
