@@ -1,6 +1,6 @@
 1) What are tags in HTML?
 
-- In HTML, tags are kewords enclosed in angle brackets('<' and '>') that defines how the
+- In HTML, tags are keywords enclosed in angle brackets('<' and '>') that defines how the
    web browser should be format and display content.
 - Tags are used to structure and describe the elements of a web pace, such as headings, 
   paragraphs, images, links and more.
