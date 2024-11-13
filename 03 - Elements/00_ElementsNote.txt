@@ -17,5 +17,5 @@
 
 2> Inline Elements
 - These elements do not start on a new line and only occupy the space bounded by the tags themselves.
-- These are often used withnin block-level elements to style or modify parts of the content.
+- These are often used within block-level elements to style or modify parts of the content.
 - examples: <span>, <a>, <img>, <strong>, <em>, <input>, <br>, <i>, <u>, etc.
