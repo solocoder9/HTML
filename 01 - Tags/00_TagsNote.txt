@@ -17,7 +17,7 @@
 1> Paired Tags
 - Paired tags consist of an opening tag and a closing tag, enclosing content between them.
 - The opening tag begins with a less-than symbol(<), followed by the tag name, and ends with
-  a greater-than symbol but include a forward slash before the tagname(</).
+  a greater-than symbol but include a forward slash before the tag name(</).
 - examples:
 
         Opening Tag	    Closing Tag
