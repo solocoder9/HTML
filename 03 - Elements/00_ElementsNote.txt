@@ -12,7 +12,7 @@
         2> Inline Elements
 
 1> Block-Level Elements
-- These elements typecally start on a new line and occupy the full width available to them.
+- These elements typically start on a new line and occupy the full width available to them.
 - examples: <div>, <p>, <h1> to <h6>, <ul>, <ol>, <li>, <table>, <form>, etc.
 
 2> Inline Elements
