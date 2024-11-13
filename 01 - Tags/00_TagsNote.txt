@@ -4,7 +4,7 @@
    web browser should be format and display content.
 - Tags are used to structure and describe the elements of a web pace, such as headings, 
   paragraphs, images, links and more.
-- Each tags servers a specific purpose and can have attributes taht provide additional
+- Each tags servers a specific purpose and can have attributes that provide additional
   information about the elements.
 
 -------------------------------------------------------------------------------------------------
