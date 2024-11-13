@@ -10,13 +10,13 @@
 -------------------------------------------------------------------------------------------------
 2) Types of Tags
 
-- HTML tags can be broadly catagoriezed into two Types:-
+- HTML tags can be broadly categorized into two Types:-
         1> Paired Tags
         2> Unpaired Tags
 
 1> Paired Tags
 - Paired tags consist of an opening tag and a closing tag, enclosing content between them.
-- The opening tag begins with a less-than symbol(<), followed by the tag neme, and ends with
+- The opening tag begins with a less-than symbol(<), followed by the tag name, and ends with
   a greater-than symbol but include a forward slash before the tagname(</).
 - examples:
 
