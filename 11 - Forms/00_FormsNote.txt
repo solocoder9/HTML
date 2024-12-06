@@ -60,7 +60,7 @@ Input Types:
     <input type="password" id="password" name="password">
 
 2> Password Input:
-- This element creates a password input field where the enterd texts is masked for security.
+- This element creates a password input field where the entered texts is masked for security.
 - Example:
     <input type="checkbox" id="subscribe" name="subscribe" value="yes">
     <label for="subscribe">Subscribe to our newsletter</label>
